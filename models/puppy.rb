@@ -4,7 +4,7 @@ class Puppy
 def initialize(name, breed, age)
   @name = name
   @breed = breed
-  @afe = age
+  @age = age
 end
 
 end
