@@ -6,8 +6,6 @@ class App < Sinatra::Base
     erb :index
   end
 
-  get '/welcome' do
-    erb :welcome
-  end
+  
 
 end
